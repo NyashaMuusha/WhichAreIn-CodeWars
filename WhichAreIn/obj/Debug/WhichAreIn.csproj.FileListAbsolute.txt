@@ -1,0 +1,6 @@
+/home/ayshan/RiderProjects/WhichAreIn/WhichAreIn/bin/Debug/WhichAreIn.exe
+/home/ayshan/RiderProjects/WhichAreIn/WhichAreIn/bin/Debug/WhichAreIn.pdb
+/home/ayshan/RiderProjects/WhichAreIn/WhichAreIn/obj/Debug/WhichAreIn.csprojAssemblyReference.cache
+/home/ayshan/RiderProjects/WhichAreIn/WhichAreIn/obj/Debug/WhichAreIn.csproj.CoreCompileInputs.cache
+/home/ayshan/RiderProjects/WhichAreIn/WhichAreIn/obj/Debug/WhichAreIn.exe
+/home/ayshan/RiderProjects/WhichAreIn/WhichAreIn/obj/Debug/WhichAreIn.pdb
